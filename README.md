@@ -1,171 +1,35 @@
-# Hi there, I'm Shubham Srivastava 👋
-
-### Application Development Module Lead | Backend Engineer | Agent Engineering Enthusiast
-
-I build scalable backend systems, modern APIs, distributed applications, and AI-powered systems. I enjoy exploring database internals, system design, authorization systems, and the emerging world of Agent Engineering.
-
----
-
-## ⚡ At a Glance
-
-| Attribute             | Details                                                |
-| :-------------------- | :----------------------------------------------------- |
-| **Experience**        | 6.5+ Years                                             |
-| **Current Role**      | Application Development Module Lead                    |
-| **Core Focus**        | Backend Engineering • Distributed Systems • Agentic AI |
-| **Backend**           | Spring Boot • FastAPI • REST APIs                      |
-| **AI Engineering**    | RAG • MCP • Tool Calling • Agent Systems               |
-| **Architecture**      | Microservices • Event-Driven Systems • System Design   |
-| **Databases**         | PostgreSQL • MySQL • Redis                             |
-| **Frontend & Mobile** | Flutter • Vue.js • TypeScript                          |
-
----
-
-## 🔭 Currently Building & Learning
-
-### 🛠️ Building
-
-* Advanced Backend Engineering Lab
-* Agent Engineering Lab
-* Production-ready authorization systems using Casbin
-* Event-driven architectures with Kafka
-* AI applications powered by MCP, RAG, and Agent workflows
-* Scalable backend systems using FastAPI and Spring Boot
-
-### 🌱 Exploring
-
-* Distributed Systems
-* Database Internals
-* Transaction Management
-* Concurrency & Locking
-* Authorization Systems (RBAC & ABAC)
-* Multi-Agent Systems
-* AI Infrastructure & Observability
-
----
-
-## 🧰 Tech Stack
-
-### ⚙️ Backend Engineering
-
-* Spring Boot
-* FastAPI
-* Java
-* Python
-* REST APIs
-* Microservices
-* gRPC
-
-### 🗄️ Databases & Caching
-
-* PostgreSQL
-* MySQL
-* Redis
-* SQLAlchemy
-* Hibernate / JPA
-* SQLModel
-
-### 🔄 Messaging & Event Streaming
-
-* Apache Kafka
-* Event-Driven Architecture
-* Asynchronous Processing
-
-### 🔐 Security & Authorization
-
-* JWT Authentication
-* OAuth2
-* Casbin
-* RBAC
-* ABAC
-* Multi-Tenant Authorization
-
-### 🤖 AI & Agent Engineering
-
-* RAG
-* MCP (Model Context Protocol)
-* Tool Calling
-* LangChain
-* LangGraph
-* Vector Databases
-* Agent Architectures
-
-### 📱 Frontend & Mobile
-
-* Flutter
-* Dart
-* Vue.js
-* TypeScript
-* Pinia
-* Tailwind CSS
-
-### 🏗️ Architecture & Engineering
-
-* System Design
-* Repository Pattern
-* Clean Architecture
-* Domain-Driven Design
-* Concurrency Control
-* Database Transactions
-* Optimistic Locking
-* Pessimistic Locking
-* Distributed Systems
-
-### ☁️ DevOps & Tools
-
-* Docker
-* Git
-* GitHub Actions
-* Linux
-* Postman
-* IntelliJ IDEA
-* VS Code
-
----
-
-## 📖 Areas of Interest
-
-* Backend Engineering
-* Database Engineering
-* Distributed Systems
-* Event-Driven Architecture
-* Agentic AI
-* AI Infrastructure
-* System Design
-* Software Architecture
-
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Shubham+Srivastava+;Application+Development+Module+Lead;Distributed+Systems+%26+Backend+Architect;Agentic+AI+%26+Systems+Engineer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0E17&height=250&section=header&text=SHUBHAM%20SRIVASTAVA&fontSize=42&fontColor=00E5FF&animation=twinkling&desc=Distributed%20Systems%20%7C%20Agentic%20AI%20Architect&descSize=20&descAlignY=60&descAlign=50" width="100%" />
 
-<p align="center">
-  <b>Application Development Module Lead | Backend Engineer | Agent Engineering Enthusiast</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&height=50&lines=System.out.println(%22Application+Development+Module+Lead%22);uvicorn+main:app+--reload+%23+Agentic+Core;Building+Scalable+Backend+Systems;Exploring+Database+Internals+%26+Concurrency" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a>
+  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### 📊 System Architecture At a Glance
-<table>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+
+---
+
+### 📊 System Operations Control Room
+
+<table border="0">
   <tr>
-    <td width="50%">
-      <b>🚀 Core Focus</b><br>
-      • Backend Engineering & Distributed Core<br>
-      • High-Throughput Event-Driven Pipelines<br>
-      • Agentic AI Infrastructure (MCP, RAG)
+    <td width="60%" valign="top">
+      <h4>⚡ CORE ARCHITECTURAL FOCUS</h4>
+      <p>🧠 <b>Distributed Core:</b> Designing high-throughput, low-latency asynchronous microservices using Spring Boot WebFlux and FastAPI.</p>
+      <p>🔄 <b>Event Routing:</b> Orchestrating multi-partition Kafka clusters tuned for multi-threaded concurrency and strict manual offset validation.</p>
+      <p>🤖 <b>Agentic Core:</b> Constructing self-healing AI runtimes using the Model Context Protocol (MCP), tool-calling loops, and LangGraph.</p>
     </td>
-    <td width="50%">
-      <b>🧠 Metrics & Horizons</b><br>
-      • <b>Experience:</b> 6.5+ Years Architecture Leadership<br>
-      • <b>Exploring:</b> Database Internals & Concurrency Isolation<br>
-      • <b>Current Focus:</b> Multi-Agent System Orchestration
+    <td width="40%" valign="top">
+      <h4>📈 CURRENT SYSTEM HORIZONS</h4>
+      <p>🌱 <b>Investigating:</b> Database concurrency mechanisms, transactional engine internals, and multi-tenant isolation patterns (RBAC/ABAC).</p>
+      <p>🛠️ <b>Active Lab:</b> Compiling custom middleware architectures to interface local language models with secure private relational stores.</p>
     </td>
   </tr>
 </table>
@@ -174,54 +38,51 @@ I build scalable backend systems, modern APIs, distributed applications, and AI-
 
 ---
 
-## 🔭 Active Labs & Production Pipelines
+## 🧰 The Engineering Matrix
 
-Below are the architectural frameworks and distributed environments I am actively compiling, refining, and scaling:
-
-<details open>
-<summary><b>⚡ Advanced Backend & Distributed Systems Lab</b></summary>
-<br>
-
-* **Event-Driven Distribution Architecture:** Designing ultra-resilient asynchronous pipelines utilizing **Apache Kafka** with concurrent message listener tuning, manual offset commits, and dynamic exponential back-off error controls.
-* **Enterprise Authorization Models:** Architecting fine-grained, multi-tenant authorization engines utilizing **Casbin** spanning across Role-Based Access Control (**RBAC**) and Attribute-Based Access Control (**ABAC**).
-* **High-Performance REST/gRPC Engines:** Building scalable, asynchronous web microservices leveraging the reactive capabilities of **Spring Boot (WebFlux)** and **FastAPI** paired with robust thread-concurrency boundaries.
-</details>
-
-<details>
-<summary><b>🤖 Agentic AI Infrastructure Lab</b></summary>
-<br>
-
-* **Context-Aware Orchestration:** Engineering dynamic workflows using **LangChain** and **LangGraph** for multi-agent negotiation, advanced tool calling, and autonomous loop control.
-* **Model Context Protocol (MCP) Systems:** Implementing open standard contextual routing protocols to securely interface LLMs with local databases, file repositories, and third-party APIs.
-* **Vector Pipeline Integration:** Optimizing high-density Retrieval-Augmented Generation (**RAG**) execution nodes using vector-indexed memory layers to minimize structural hallucination windows.
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Backend_Core-0A0E17?style=for-the-badge&logoColor=00E5FF" alt="Section Header"><br>
+      • <b>Frameworks:</b> Spring Boot (WebFlux), FastAPI, gRPC<br>
+      • <b>Languages:</b> Java, Python, Dart, TypeScript<br>
+      • <b>Concurrency:</b> Optimistic/Pessimistic Locking, Multithreading
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Event_Streaming_&_Data-0A0E17?style=for-the-badge&logoColor=00E5FF" alt="Section Header"><br>
+      • <b>Brokers:</b> Apache Kafka, Event-Driven Topologies<br>
+      • <b>Databases:</b> PostgreSQL, Redis, MySQL<br>
+      • <b>ORM/Drivers:</b> Hibernate/JPA, SQLAlchemy, SQLModel
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br><img src="https://img.shields.io/badge/AI_&_Agentic_Systems-0A0E17?style=for-the-badge&logoColor=00E5FF" alt="Section Header"><br>
+      • <b>Orchestration:</b> LangChain, LangGraph, Tool Calling<br>
+      • <b>Context Routing:</b> Model Context Protocol (MCP), RAG<br>
+      • <b>Vector Spaces:</b> Vector Databases, Semantic Search
+    </td>
+    <td width="50%" valign="top">
+      <br><img src="https://img.shields.io/badge/Security_&_Infra-0A0E17?style=for-the-badge&logoColor=00E5FF" alt="Section Header"><br>
+      • <b>Authorization:</b> Casbin (RBAC / ABAC), Multi-Tenant Auth<br>
+      • <b>DevOps Core:</b> Docker, GitHub Actions, Linux Systems<br>
+      • <b>Design:</b> Clean Architecture, DDD, Repository Pattern
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Technology Matrix
+## 🔭 Architectural Labs & Repositories
 
 ```yaml
-infrastructure:
-  orchestration: [ "Docker", "GitHub Actions", "Linux", "Clean Architecture", "DDD" ]
-  observability: [ "Postman", "IntelliJ IDEA", "VS Code" ]
+# Live Operational Subsystems
+- active_environment:
+    lab_name: "Advanced Backend Engineering Lab"
+    core_stack: [ "Spring Boot WebFlux", "Kafka", "Casbin" ]
+    current_state: "Optimizing partition consumption concurrency structures."
 
-backend_core:
-  languages: [ "Java", "Python", "Dart", "TypeScript" ]
-  frameworks: [ "Spring Boot (WebFlux / JPA)", "FastAPI", "gRPC" ]
-  concurrency: [ "Optimistic/Pessimistic Locking", "Database Transactions", "Distributed Locking" ]
-
-event_streaming:
-  backbone: [ "Apache Kafka", "Asynchronous Processing", "Event-Driven Architecture" ]
-
-data_layers:
-  relational: [ "PostgreSQL", "MySQL", "Hibernate", "SQLAlchemy", "SQLModel" ]
-  volatile_cache: [ "Redis" ]
-
-security_auth:
-  protocols: [ "OAuth2", "JWT Authentication", "Casbin (RBAC / ABAC)", "Multi-Tenant Security" ]
-
-ai_agentic:
-  workflows: [ "LangChain", "LangGraph", "Tool Calling", "RAG Pipeline Setup", "MCP Integration" ]
-
-frontend_edge:
-  frameworks: [ "Flutter", "Vue.js", "Pinia", "Tailwind CSS" ]
+- active_environment:
+    lab_name: "Agent Engineering Lab"
+    core_stack: [ "FastAPI", "MCP", "LangGraph", "Vector DBs" ]
+    current_state: "Implementing cross-border multi-agent transaction safety loops."
