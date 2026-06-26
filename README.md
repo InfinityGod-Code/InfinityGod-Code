@@ -68,6 +68,20 @@
       • <b>Design:</b> Clean Architecture, DDD, Repository Pattern
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br><img src="https://img.shields.io/badge/Mobile_Engineering-0A0E17?style=for-the-badge&logoColor=00E5FF" alt="Section Header"><br>
+      • <b>Frameworks:</b> Flutter Ecosystem<br>
+      • <b>Languages:</b> Dart Native Development<br>
+      • <b>Architecture:</b> Reactive State Management, Platform Channels
+    </td>
+    <td width="50%" valign="top">
+      <br><img src="https://img.shields.io/badge/Web_Architecture-0A0E17?style=for-the-badge&logoColor=00E5FF" alt="Section Header"><br>
+      • <b>Frameworks:</b> Vue.js, Tailwind CSS Core<br>
+      • <b>Languages:</b> Modern TypeScript / JavaScript<br>
+      • <b>State Engine:</b> Pinia Centralized Data Stores
+    </td>
+  </tr>
 </table>
 
 ---
