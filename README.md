@@ -1,6 +1,4 @@
-Here is your complete, production-ready, consolidated profile `README.md` code. The custom-engineered interactive SVG Quantum Core Portal has been integrated into your layout right below the main console controls to serve as your central system hub.
 
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0E17&height=250&section=header&text=SHUBHAM%20SRIVASTAVA&fontSize=42&fontColor=00E5FF&animation=twinkling&desc=Distributed%20Systems%20%7C%20Agentic%20AI%20Architect&descSize=20&descAlignY=60&descAlign=50" width="100%" />
@@ -168,9 +166,5 @@ Here is your complete, production-ready, consolidated profile `README.md` code. 
     lab_name: "Agent Engineering Lab"
     core_stack: [ "FastAPI", "MCP", "LangGraph", "Vector DBs" ]
     current_state: "Implementing cross-border multi-agent transaction safety loops."
-
-```
-
-```
 
 ```
