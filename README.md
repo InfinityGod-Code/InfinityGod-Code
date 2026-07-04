@@ -9,6 +9,11 @@
   <a href="https://www.linkedin.com/in/shubham-srivastava-1176a2194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/InfinityGodV"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:codetosuccessyt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Dev.to Badge -->
+<a href="https://dev.to/infinitygodcode"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to"></a>
+
+<!-- Hashnode Badge -->
+<a href="https://hashnode.com/@shubham-tech"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 </p>
 
 ---
