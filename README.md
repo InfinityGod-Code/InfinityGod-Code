@@ -49,14 +49,14 @@
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/Backend_Core-0A0E17?style=for-the-badge&logoColor=00E5FF" alt="Section Header"><br>
       • <b>Frameworks:</b> Spring Boot (WebFlux), FastAPI, gRPC<br>
-      • <b>Languages:</b> Java, Python, Dart, TypeScript<br>
+      • <b>Languages:</b> Java, Golang, Python, Dart, TypeScript<br>
       • <b>Concurrency:</b> Optimistic/Pessimistic Locking, Multithreading
     </td>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/Event_Streaming_&_Data-0A0E17?style=for-the-badge&logoColor=00E5FF" alt="Section Header"><br>
-      • <b>Brokers:</b> Apache Kafka, Event-Driven Topologies<br>
-      • <b>Databases:</b> PostgreSQL, Redis, MySQL<br>
-      • <b>ORM/Drivers:</b> Hibernate/JPA, SQLAlchemy, SQLModel
+      • <b>Brokers:</b> Apache Kafka, Event-Driven Topologies, RabbitMQ<br>
+      • <b>Databases:</b> PostgreSQL, Redis, MySQL, MongoDB<br>
+      • <b>ORM/Drivers:</b> Hibernate/JPA, SQLAlchemy, SQLModel, GORM.
     </td>
   </tr>
   <tr>
