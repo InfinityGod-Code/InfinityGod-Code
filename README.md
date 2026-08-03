@@ -5,6 +5,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&height=50&lines=System.out.println(%22Application+Development+Module+Lead%22);uvicorn+main:app+--reload+%23+Agentic+Core;Building+Scalable+Backend+Systems;Exploring+Database+Internals+%26+Concurrency" alt="Typing SVG" />
 
+
+<p align="center">
+  <img src="assets/banner.png" alt="Alt" width="100%">
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-srivastava-1176a2194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/InfinityGodV"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
